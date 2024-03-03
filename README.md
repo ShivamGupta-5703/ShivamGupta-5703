@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f44b.svg" width = 10px>, I'm Shivam Gupta</h1>
+<h1 align="center">Hi <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f44b.svg" width = 25px>, I'm Shivam Gupta</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamgupta-5703&label=Profile%20views&color=0e75b6&style=flat" alt="shivamgupta-5703" /> </p>
