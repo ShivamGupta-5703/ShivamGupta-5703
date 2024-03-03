@@ -7,17 +7,21 @@
 
 - 🔭 I’m currently working on **Next.js Full Stack Application...**
 
-- 📫 How to reach me **https://www.linkedin.com/in/shivam-gupta-7298aa249/**
+- 📫 How to reach me <a href="https://www.linkedin.com/in/shivam-gupta-7298aa249/">**Linkedln**</a>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LWfRbRf8fxuZuFDz2-uiEWAV4HOJQMKq/view?usp=sharing](https://drive.google.com/file/d/1LWfRbRf8fxuZuFDz2-uiEWAV4HOJQMKq/view?usp=sharing)
+- 📄 Know about my experiences<a href="https://drive.google.com/file/d/1SwcWjWPxEwPlJYKEKPsK4p79IzAK2p8F/view?usp=sharing" target="_blank">**Resume**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shivam-gupta-7298aa249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-gupta-7298aa249/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/shivgupta5703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shivgupta5703" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/shivgupta39693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/shivgupta39693" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Coding profiles:</h3>
+<p>
 <a href="https://www.leetcode.com/https://leetcode.com/shivam_gupta5703/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shivam_gupta5703/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/shivgupta39693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/shivgupta39693" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/shivgupta39693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/shivgupta39693" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/shivgupta5703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shivgupta5703" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
