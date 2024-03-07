@@ -9,7 +9,7 @@
 
 - 📫 How to reach me :<a href="https://www.linkedin.com/in/shivam-gupta-7298aa249/">**Linkedln**</a>
 
-- 📄 Know about my experiences :<a href="https://drive.google.com/file/d/1SwcWjWPxEwPlJYKEKPsK4p79IzAK2p8F/view?usp=sharing" target="_blank">**Resume**</a>
+- 📄 Know about my experiences :<a href="https://drive.google.com/file/d/1BsfWowm1LtLKd8wZUnKhMFsbTh7Mh3gB/view?usp=sharing" target="_blank">**Resume**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
