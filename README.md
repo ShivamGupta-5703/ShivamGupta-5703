@@ -41,24 +41,23 @@
 ---
 
 ## About me
-I build backend systems that are robust, maintainable, and ready for scale. I enjoy API and data modelling, designing microservices, and improving system performance. I combine strong backend fundamentals (Java, Spring Boot, REST APIs) with cloud-native tooling (Docker, Kubernetes, Kafka) and a growing interest in AI/LLM integrations and RAG pipelines.
+I’m a Backend Engineer with a passion for building scalable, reliable, and efficient systems. I specialize in Java and modern backend technologies — working with Node, Spring Boot, Microservices, RESTful APIs, and Cloud-native deployments. I also have experience in modern tools like Docker, Kafka, Kubernetes, and event-based architectures. I’m excited about leveraging AI/LLM integrations, RAG pipelines and modern data-driven architectures to solve real-world problems.
 
-I’m open to backend / Java backend opportunities — if you’re building something interesting, let’s connect!
+Over the past several projects, I’ve designed and implemented backend services that power large-scale applications, streamlined data flows between SQL/NoSQL stores, and ensured secure authentication & authorization with JWT, Redis and distributed caching. I enjoy writing maintainable, well-structured code, designing APIs thoughtfully, and building systems that are robust, performant, and ready for scale.
+
+What sets me apart:
+- A mindset of continuous learning — keen to expand into system design, distributed systems, and backend best practices.
+- I understand the full backend life cycle — from API design and data modelling to deployment, scaling, and maintenance.
+- I’m a problem-solver who values clean architecture, testability, and performance under load.
+
+I’m currently exploring opportunities in backend development — ideally in a team that values scalability, clean code, and meaningful impact.
+Let’s connect if you’re looking for a motivated backend engineer ready to learn and take on challenges.
 
 ---
 
 ## Current
 **Associate Backend Engineer — Meridian Solutions Pvt. Ltd.**  
 Working on microservices, async pipelines, RAG chatbots, LMS features and production-ready AI integrations. I contribute to backend architecture, CI/CD automation, and cloud deployments.
-
----
-
-## Selected Projects
-- **Nexora** — Microservices social platform (Spring Boot, Spring Cloud: Eureka/Gateway/Feign, PostgreSQL, Neo4j, Kafka, Docker, Kubernetes, Zipkin).  
-- **Innexus** — Hotel booking backend (Spring Boot, Spring Data JPA, PostgreSQL, Stripe integration, RBAC/Security with JWT).  
-- **Edulearn.AI** — AI-driven LMS & RAG chatbot (Node.js, FastAPI, Azure — OpenAI, Blob Storage, Cosmos DB, Redis, CI/CD).
-
-(Each project focuses on reliability, scalability, and production readiness — API design, data modelling, and asynchronous/event-driven workflows.)
 
 ---
 
@@ -70,8 +69,8 @@ Java · Spring Boot · Node.js · FastAPI · REST APIs · GraphQL
 **Cloud / DevOps / Infra**  
 Azure · Docker · Kubernetes · Cloud-native deployments · GitHub Actions · Azure DevOps
 
-**Messaging / Streaming**  
-Kafka · Event-based / Stream architecture
+**Messaging**  
+Kafka · Event-based architecture
 
 **Databases & Storage**  
 PostgreSQL · MySQL · MongoDB / Cosmos DB · Redis · Neo4j
@@ -82,15 +81,12 @@ JWT · Auth flows · Caching strategies · Performance optimization
 **Architecture & Practices**  
 Microservices · API & Data modelling · System design basics · Clean code · Testability · Observability (Zipkin)
 
-**Emerging / Interest Areas**  
-AI / LLM integrations · RAG pipelines · Data-driven backend systems
-
 ---
 
 ## Certifications & Achievements
 - **Microsoft Azure AI-102** — Azure AI Engineer Associate  
 - **Smart India Hackathon** — Runner up  
-- Certificate: DSA (Java) — Coding Blocks
+- **DSA (Java)** — Coding Blocks
 
 ---
 
@@ -99,8 +95,7 @@ AI / LLM integrations · RAG pipelines · Data-driven backend systems
 - 🔗  LinkedIn: https://www.linkedin.com/in/shivam-gupta-7298aa249/  
 - 📄  Resume: [Check Out !!](https://drive.google.com/file/d/1BYgg6bwToA795z0iwmVPppl351IRqOeG/view?usp=sharing)  
 - 💻  GitHub: https://github.com/ShivamGupta-5703  
-- 🧠  LeetCode: https://leetcode.com/u/Shivam_Gupta5703/  
-- 🔗  Portfolio / Project: https://edulearn.ai/home
+- 🧠  LeetCode: https://leetcode.com/u/Shivam_Gupta5703/
 
 ---
 
