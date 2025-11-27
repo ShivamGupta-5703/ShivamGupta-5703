@@ -23,7 +23,7 @@ Let’s connect if you’re looking for a motivated backend engineer ready to le
 
 - 📫 How to reach me :<a href="https://www.linkedin.com/in/shivam-gupta-7298aa249/">**Linkedln**</a>
 
-- 📄 Know about my experiences :<a href="[https://drive.google.com/file/d/1BsfWowm1LtLKd8wZUnKhMFsbTh7Mh3gB/view?usp=sharing]" target="_blank">**Resume**</a>
+- 📄 Know about my experiences :<a href="[https://drive.google.com/file/d/1BsfWowm1LtLKd8wZUnKhMFsbTh7Mh3gB/view?usp=sharing](https://drive.google.com/file/d/1BYgg6bwToA795z0iwmVPppl351IRqOeG/view?usp=sharing)" target="_blank">**Resume**</a>
 
 ---
 
