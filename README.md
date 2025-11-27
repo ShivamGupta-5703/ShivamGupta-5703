@@ -26,3 +26,87 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+
+
+
+
+<!-- README.md for Shivam Gupta -->
+<h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
+<p align="center">
+  <strong>Associate Backend Engineer • Backend Developer (Java | Node | Cloud)</strong><br>
+  Building scalable, reliable, and efficient backend systems — microservices, cloud-native deployments, and AI/LLM-powered services.
+</p>
+
+---
+
+## About me
+I build backend systems that are robust, maintainable, and ready for scale. I enjoy API and data modelling, designing microservices, and improving system performance. I combine strong backend fundamentals (Java, Spring Boot, REST APIs) with cloud-native tooling (Docker, Kubernetes, Kafka) and a growing interest in AI/LLM integrations and RAG pipelines.
+
+I’m open to backend / Java backend opportunities — if you’re building something interesting, let’s connect!
+
+---
+
+## Current
+**Associate Backend Engineer — Meridian Solutions Pvt. Ltd.**  
+Working on microservices, async pipelines, RAG chatbots, LMS features and production-ready AI integrations. I contribute to backend architecture, CI/CD automation, and cloud deployments.
+
+---
+
+## Selected Projects
+- **Nexora** — Microservices social platform (Spring Boot, Spring Cloud: Eureka/Gateway/Feign, PostgreSQL, Neo4j, Kafka, Docker, Kubernetes, Zipkin).  
+- **Innexus** — Hotel booking backend (Spring Boot, Spring Data JPA, PostgreSQL, Stripe integration, RBAC/Security with JWT).  
+- **Edulearn.AI** — AI-driven LMS & RAG chatbot (Node.js, FastAPI, Azure — OpenAI, Blob Storage, Cosmos DB, Redis, CI/CD).
+
+(Each project focuses on reliability, scalability, and production readiness — API design, data modelling, and asynchronous/event-driven workflows.)
+
+---
+
+## 🔧 Skills Snapshot
+
+**Languages & Frameworks**  
+Java · Spring Boot · Node.js · FastAPI · REST APIs · GraphQL
+
+**Cloud / DevOps / Infra**  
+Azure · Docker · Kubernetes · Cloud-native deployments · GitHub Actions · Azure DevOps
+
+**Messaging / Streaming**  
+Kafka · Event-based / Stream architecture
+
+**Databases & Storage**  
+PostgreSQL · MySQL · MongoDB / Cosmos DB · Redis · Neo4j
+
+**Auth / Caching / Security**  
+JWT · Auth flows · Caching strategies · Performance optimization
+
+**Architecture & Practices**  
+Microservices · API & Data modelling · System design basics · Clean code · Testability · Observability (Zipkin)
+
+**Emerging / Interest Areas**  
+AI / LLM integrations · RAG pipelines · Data-driven backend systems
+
+---
+
+## Certifications & Achievements
+- **Microsoft Azure AI-102** — Azure AI Engineer Associate  
+- **Smart India Hackathon** — Runner up  
+- Certificate: DSA (Java) — Coding Blocks
+
+---
+
+## Contact & Links
+- ✉️  guptashivam5703@gmail.com  
+- 🔗  LinkedIn: https://www.linkedin.com/in/shivam-gupta-7298aa249/  
+- 📄  Resume: [Check Out !!](https://drive.google.com/file/d/1BYgg6bwToA795z0iwmVPppl351IRqOeG/view?usp=sharing)  
+- 💻  GitHub: https://github.com/ShivamGupta-5703  
+- 🧠  LeetCode: https://leetcode.com/u/Shivam_Gupta5703/  
+- 🔗  Portfolio / Project: https://edulearn.ai/home
+
+---
+
+## What I’m looking for
+Backend/Java opportunities at teams that value clean architecture, scalability, and meaningful impact. I enjoy roles where I can both contribute and continue learning — especially around system design and AI-enabled backends.
+
+---
+
+<p align="center">Made with ❤️ — Shivam</p>
