@@ -1,12 +1,12 @@
 <!-- README.md for Shivam Gupta -->
 <h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
+<div style="margin-top:20px;"></div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamgupta-5703&label=Profile%20views&color=0e75b6&style=flat" alt="shivamgupta-5703" /> </p>
 <p align="center">
   <strong>Associate Backend Engineer • Backend Developer (Java | Node | Cloud)</strong><br>
   Building scalable, reliable, and efficient backend systems — microservices, cloud-native deployments, and AI/LLM-powered services.
 </p>
-<div style="margin-top:20px;"></div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamgupta-5703&label=Profile%20views&color=0e75b6&style=flat" alt="shivamgupta-5703" /> </p>
-<img align="right" width ="350" top="50" alt = "coding" src = "https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
 
 ---
 
@@ -59,7 +59,8 @@ Microservices · API & Data modelling · System design basics · Clean code · T
 
 ## Certifications & Achievements
 - **Microsoft Azure AI-102** — Azure AI Engineer Associate  
-- **Smart India Hackathon 2023** — Runner up  
+- **Smart India Hackathon 2023** — Runner up
+- **Spring Boot Cohort 2.0** — Coding Shuttle
 - **DSA (Java)** — Coding Blocks
 
 ---
